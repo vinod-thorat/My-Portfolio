@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Gumela";
+  src: local("Gumela"), url(../src/fonts/Gumela.ttf) format("truetype");
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "Gumela";
+  font-weight: normal;
+  font-size: 20px;
+}
